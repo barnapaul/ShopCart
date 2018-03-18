@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShopCart.iml" filepath="$PROJECT_DIR$/ShopCart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/shopCart.iml" filepath="$PROJECT_DIR$/app/shopCart.iml" />
+      <module fileurl="file://C:\Users\barna\Documents\AndroidStudioProjects\ShopCart\shopCart\app.iml" filepath="C:\Users\barna\Documents\AndroidStudioProjects\ShopCart\shopCart\app.iml" />
+    </modules>
+  </component>
+</project>

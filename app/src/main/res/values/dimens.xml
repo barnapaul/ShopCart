@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin">10dp</dimen>
+
+    <dimen name="txtTitleSize">22sp</dimen>
+    <dimen name="txtSize">10sp</dimen>
+
+    <dimen name="txtTableTitle">9sp</dimen>
+    <dimen name="txtTable">7sp</dimen>
+</resources>
